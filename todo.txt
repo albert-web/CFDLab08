@@ -7,4 +7,6 @@ Here is my text file for my cloud developers class.
 5- javascript
 6- web developers
 7- database
-8- other
+8- Math
+9- chemistry
+10- computer
