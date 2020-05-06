@@ -4,3 +4,7 @@ Here is my text file for my cloud developers class.
 2- cloud for developpers
 3- uiux
 4- advanced css
+5- javascript
+6- web developers
+7- database
+8- other
